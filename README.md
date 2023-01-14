@@ -8,9 +8,9 @@ Bu Repo [Kodluyoruz](https://kodluyoruz.com) Front-End eğitiminde oluşturduğu
 
 Öncelikle Projeyi clonelayın.
 
-'''
+```
 git clone https://github.com/ahmetkilicer/kodluyoruzilkrepo.git
-'''
+```
 
 ## Usage
 
@@ -18,10 +18,10 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-'''
+```
   cd kodluyoruzilkrepo
   code .
-'''
+```
 
 ## Contributing
 
